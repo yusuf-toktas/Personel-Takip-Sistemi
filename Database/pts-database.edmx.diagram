@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="53b61426511044e89a13edf25e783724" Name="Diagram1">
+        <EntityTypeShape EntityType="pts_databaseModel.audit_log" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.banka_hesaplari" Width="1.5" PointX="5.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.belge_turleri" Width="1.5" PointX="6" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.departmanlar" Width="1.5" PointX="0.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.duyurular" Width="1.5" PointX="5.25" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.egitim_katilimlari" Width="1.5" PointX="5.25" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.izin_turleri" Width="1.5" PointX="6" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.izinler" Width="1.5" PointX="8.25" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.maas_gecmisi" Width="1.5" PointX="5.25" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.personel" Width="1.5" PointX="3" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.personel_belgeleri" Width="1.5" PointX="8.25" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.personel_vardiyalari" Width="1.5" PointX="8.25" PointY="17.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.sirket_egitimleri" Width="1.5" PointX="3" PointY="19.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.unvanlar" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.vardiya_tanimlari" Width="1.5" PointX="6" PointY="25.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="pts_databaseModel.zimmet" Width="1.5" PointX="5.25" PointY="32" IsExpanded="true" />
+        <AssociationConnector Association="pts_databaseModel.FK__banka_hes__perso__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel___belge__74AE54BC" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel__depart__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__duyurular__yayin__02FC7413" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__egitim_ka__egiti__7F2BE32F" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__egitim_ka__perso__7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__izinler__izin_tu__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__izinler__onaylay__6C190EBB" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__izinler__persone__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__maas_gecm__perso__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel___perso__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel___perso__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel__unvan___5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel__yoneti__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__zimmet__personel__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="pts_databaseModel.FK__personel___vardi__787EE5A0" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
