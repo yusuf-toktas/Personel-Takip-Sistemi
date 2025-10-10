@@ -8,10 +8,10 @@
 Microsoft SQL Server 2022 veritabanı ile entegre, C# Windows Forms (.NET Framework) kullanılarak geliştirilmiş kapsamlı bir Personel Takip Sistemi masaüstü uygulaması.
 
 > [!NOTE]
-> *Bu alana projenizin çalışan halinden güzel bir ekran görüntüsü eklemeniz, projenizin çok daha dikkat çekici olmasını sağlar. GitHub'a bir resim yükleyip linkini aşağıdaki satıra ekleyebilirsiniz.*
+> *Uygulama Genel Olarak Bu Şekilde Gözükmektedir.*
 
 ![PTS Ana Ekranı](https://i.imgur.com/dBHZkbR.png) 
-*(Örnek Ekran Görüntüsü)*
+*(Ekran Görüntüsü)*
 
 ---
 
