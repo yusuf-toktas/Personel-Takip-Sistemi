@@ -10,7 +10,7 @@ Microsoft SQL Server 2022 veritabanı ile entegre, C# Windows Forms (.NET Framew
 > [!NOTE]
 > *Bu alana projenizin çalışan halinden güzel bir ekran görüntüsü eklemeniz, projenizin çok daha dikkat çekici olmasını sağlar. GitHub'a bir resim yükleyip linkini aşağıdaki satıra ekleyebilirsiniz.*
 
-![PTS Ana Ekranı](https://i.imgur.com/g8o4q1g.png) 
+![PTS Ana Ekranı](https://i.imgur.com/dBHZkbR.png) 
 *(Örnek Ekran Görüntüsü)*
 
 ---
@@ -105,6 +105,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📬 İletişim
 
-[Adınız Soyadınız] - [email@adresiniz.com]
+[Yusuf Toktaş] - [yusuf.toktas.32@gmail.com]
 
-Proje Linki: [https://github.com/[GitHubKullaniciAdiniz]/[ProjeAdiniz]](https://github.com/[GitHubKullaniciAdiniz]/[ProjeAdiniz])
+Proje Linki: [https://github.com/[yusuf-toktas]/[Personel-Takip-Sistemi]](https://github.com/yusuf-toktas/Personel-Takip-Sistemi)
