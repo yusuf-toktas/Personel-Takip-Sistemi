@@ -77,7 +77,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 2.  **Kurulum Adımları**
     * **Depoyu Klonlayın:**
         ```sh
-        git clone [https://github.com/](https://github.com/)[GitHubKullaniciAdiniz]/[ProjeAdiniz].git
+        git clone https://github.com/yusuf-toktas/Personel-Takip-Sistemi.git
         ```
     * **Veritabanını Oluşturun:**
         1.  Proje içinde bulunan `.sql` script dosyasını SSMS ile açın.
